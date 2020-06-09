@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "5Hours",
+"productVersion": "0.1",
+"dataUrl": "5HoursProject.data.unityweb",
+"wasmCodeUrl": "5HoursProject.wasm.code.unityweb",
+"wasmFrameworkUrl": "5HoursProject.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#1D1D1D",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.11f1"
+}
